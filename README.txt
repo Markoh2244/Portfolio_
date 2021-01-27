@@ -1,4 +1,4 @@
-This is some of the work that I can show that I have done over the years.
+This is some of the work, that I can show, that I have completed over the years.
 
 CMU-BME: This is a group project that I worked on in the Biomedical Engineering Lab
 
