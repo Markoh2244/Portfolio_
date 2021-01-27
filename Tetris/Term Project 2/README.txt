@@ -4,4 +4,5 @@ Keep trying unitl you find an empty square. To flag a tile you can select the re
 bomb while demining. 
 
 Modules used: cmu_112_graphics 
+*Please note that my work is what is in Main.py
 
